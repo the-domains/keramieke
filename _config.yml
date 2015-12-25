@@ -1,0 +1,28 @@
+name: keramieke
+favicon: null
+layout_spectrum: 0.1881107937078923
+typography_spectrum: 0.407308975700289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6975517219398171
+  lightness: 0.2671509073115885
+  saturation: 0.84250249247998
+  rhythmicContrast: 0.05467685707844794
+purpose: []
